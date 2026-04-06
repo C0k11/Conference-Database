@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Conference Illustration</title>
+  <desc id="desc">Stylized conference hall with presentation screen and attendees.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dbeafe" />
+      <stop offset="100%" stop-color="#bfdbfe" />
+    </linearGradient>
+    <linearGradient id="stage" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8" />
+      <stop offset="100%" stop-color="#1e3a8a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" rx="32" fill="url(#bg)" />
+  <circle cx="110" cy="110" r="38" fill="#93c5fd" />
+  <circle cx="690" cy="96" r="26" fill="#60a5fa" />
+  <rect x="96" y="90" width="608" height="320" rx="24" fill="#ffffff" stroke="#93c5fd" stroke-width="4" />
+  <rect x="160" y="130" width="480" height="150" rx="18" fill="url(#stage)" />
+  <rect x="210" y="170" width="155" height="12" rx="6" fill="#dbeafe" opacity="0.9" />
+  <rect x="210" y="202" width="250" height="12" rx="6" fill="#bfdbfe" opacity="0.85" />
+  <rect x="210" y="234" width="200" height="12" rx="6" fill="#93c5fd" opacity="0.8" />
+  <circle cx="540" cy="205" r="42" fill="#60a5fa" opacity="0.9" />
+  <path d="M520 206h40l-20-34z" fill="#eff6ff" />
+  <rect x="130" y="436" width="540" height="18" rx="9" fill="#cbd5e1" />
+  <g fill="#0f172a">
+    <circle cx="210" cy="360" r="24" />
+    <circle cx="320" cy="360" r="24" />
+    <circle cx="430" cy="360" r="24" />
+    <circle cx="540" cy="360" r="24" />
+    <circle cx="250" cy="420" r="24" />
+    <circle cx="390" cy="420" r="24" />
+    <circle cx="530" cy="420" r="24" />
+  </g>
+  <g fill="#475569">
+    <rect x="190" y="382" width="40" height="42" rx="14" />
+    <rect x="300" y="382" width="40" height="42" rx="14" />
+    <rect x="410" y="382" width="40" height="42" rx="14" />
+    <rect x="520" y="382" width="40" height="42" rx="14" />
+    <rect x="230" y="442" width="40" height="22" rx="11" />
+    <rect x="370" y="442" width="40" height="22" rx="11" />
+    <rect x="510" y="442" width="40" height="22" rx="11" />
+  </g>
+  <text x="400" y="474" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#1e3a8a" font-weight="700">
+    Conference Organizer Portal
+  </text>
+</svg>
